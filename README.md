@@ -65,5 +65,5 @@ Here are some ideas to get you started:
 [instagram]: https://www.instagram.com/pranaymahajan11/
 [linkedin]: https://www.linkedin.com/in/pranay-mahajan-961116188/
 [Resume]: https://drive.google.com/file/d/1uW_4HCFx1MLzwsmwa-ShifG1seCimvDs/view
-[Portfolio]: https://pranay2000.github.io/index.html/
+[Portfolio]: https://pranay2000.github.io/
 
