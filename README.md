@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 ### I am a Developer!
 - Strong Leadership Skills | Good Analytical and Interpersonal skills | Team Player
 - Area of Expertise
-- > Exceptional coding Skills in Java and C++. I am passionate about Software Development, Android App Development, Cloud Services with an interest in Open Source Domain.
+- > Exceptional coding Skills in Java. I am passionate about Software Development with good understanding of Spring Boot, Android Development, Python, Data Engineering concepts and database knowledge in MySQL.
 - Career Objective
 - > Aiming to gain a multi-disciplinary understanding of various problems around the world.
-- Graduating from UPES in 2022. 
+- 2022 Graduate from University of Petroleum and Energy Studies (UPES). 
 - ⚡ I like to play various games like Basketball, Football which stimulates mental awareness and keeps me fit.
 ------------------------------
 
@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
 <img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 <img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
@@ -64,6 +65,6 @@ Here are some ideas to get you started:
 
 [instagram]: https://www.instagram.com/pranaymahajan11/
 [linkedin]: https://www.linkedin.com/in/pranay-mahajan-961116188/
-[Resume]: https://drive.google.com/file/d/1uW_4HCFx1MLzwsmwa-ShifG1seCimvDs/view
+[Resume]: https://drive.google.com/file/d/139b1fT7sNzx_0X8HAZo-khiFhW34IjJI/view?usp=sharing
 [Portfolio]: https://pranay2000.github.io/
 
